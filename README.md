@@ -6,6 +6,8 @@ Socks5 backconnect server . Expose a local socks5 server behind a NAT or firewal
 
 https://github.com/fatedier/frp/releases
 
+cp Linux/frps.ini ./
+
 ./frps &
 
 - Windows
